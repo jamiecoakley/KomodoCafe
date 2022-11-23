@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = K_Cafe.Tests
+build_property.ProjectDir = c:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Tests\

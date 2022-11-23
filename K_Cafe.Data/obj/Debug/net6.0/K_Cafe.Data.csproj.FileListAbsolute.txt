@@ -1,0 +1,12 @@
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\bin\Debug\net6.0\K_Cafe.Data.deps.json
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\bin\Debug\net6.0\K_Cafe.Data.dll
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\bin\Debug\net6.0\K_Cafe.Data.pdb
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.csproj.AssemblyReference.cache
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.AssemblyInfoInputs.cache
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.AssemblyInfo.cs
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.csproj.CoreCompileInputs.cache
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.dll
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\refint\K_Cafe.Data.dll
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\K_Cafe.Data.pdb
+C:\Users\jamie\OneDrive\Desktop\EFA160SD\GoldBadgeChallenges\Challenge1\K_Cafe.Data\obj\Debug\net6.0\ref\K_Cafe.Data.dll
